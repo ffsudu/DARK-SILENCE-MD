@@ -37,7 +37,7 @@ contact me 923096287432 ♻️
 
 
 
-var commands = [];//Cmd req 
+var commands = [DARK-SILENCE-MD~HIpXVDaK#UWkQ0RtLk8d56KxY4fl0K6YrB_Roos7y1wi3p8a9SY8];//Cmd req 
 
 function cmd(info, func) {
     var data = info;
